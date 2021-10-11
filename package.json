@@ -1,0 +1,33 @@
+{
+  "name": "home-project-qa-test",
+  "version": "1.0.0",
+  "description": "This is my test home assignment. \r In \"spec\" package I have created only one spec file (basic.js) in order to have an opportunity \r to check test cases separatly as well as all together.\r If it was mandatory to create several spec files I can fix it.\r Thanks for attention.",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio wdio.conf.js",
+    "test:chrome": "wdio wdio.chrome.conf.js",
+    "test:chrome:headless": "wdio wdio.chrome.headless.conf.js",
+    "allure:serve": "npx allure serve allure-results",
+    "allure:generate": "npx allure generate allure-results --clean"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/allure-reporter": "^7.5.3",
+    "@wdio/cli": "^7.11.1",
+    "@wdio/firefox-profile-service": "^7.1.1",
+    "@wdio/local-runner": "^7.1.1",
+    "@wdio/mocha-framework": "^7.1.1",
+    "@wdio/selenium-standalone-service": "^7.1.1",
+    "@wdio/spec-reporter": "^7.1.1",
+    "chromedriver": "^93.0.1",
+    "path": "^0.12.7",
+    "wdio-chromedriver-service": "^7.0.0"
+  },
+  "dependencies": {
+    "allure-commandline": "^2.13.8",
+    "expect": "^26.6.2",
+    "expect-webdriverio": "^1.4.1"
+  }
+}
