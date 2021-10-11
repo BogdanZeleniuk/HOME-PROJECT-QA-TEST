@@ -1,0 +1,72 @@
+{
+  "uid" : "cfe7ce1c134d4414",
+  "name" : "should print the list of vacanties into console terminal",
+  "fullName" : "Home project for QA automation.should print the list of vacanties into console terminal",
+  "historyId" : "8e8d0adf5189a07e15cac42e84996cc9",
+  "time" : {
+    "start" : 1633986545438,
+    "stop" : 1633986547268,
+    "duration" : 1830
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2b080a413e5b3e09",
+      "name" : "Screenshot",
+      "source" : "2b080a413e5b3e09.png",
+      "type" : "image/png",
+      "size" : 133712
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testClass",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should print the list of vacanties into console terminal"
+  }, {
+    "name" : "package",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cfe7ce1c134d4414.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

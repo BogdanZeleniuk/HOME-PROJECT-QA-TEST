@@ -1,0 +1,126 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Home project for QA automation",
+    "children" : [ {
+      "name" : "should put random credentials into signUp form",
+      "uid" : "a7fd8910b42e3b",
+      "parentUid" : "452acfb6b7c089a5e7e332320d40bf19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633986549334,
+        "stop" : 1633986556508,
+        "duration" : 7174
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should sign in an already created user with certain email and password",
+      "uid" : "2bd5ff680a026a95",
+      "parentUid" : "452acfb6b7c089a5e7e332320d40bf19",
+      "status" : "broken",
+      "time" : {
+        "start" : 1633986556509,
+        "stop" : 1633986569696,
+        "duration" : 13187
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should show the error message or sent new password on email after putting data into forgotPassword input",
+      "uid" : "17f16a72229dd83f",
+      "parentUid" : "452acfb6b7c089a5e7e332320d40bf19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633986569697,
+        "stop" : 1633986574730,
+        "duration" : 5033
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should check mouseOver event on menu elements",
+      "uid" : "deec4cd28fccacad",
+      "parentUid" : "452acfb6b7c089a5e7e332320d40bf19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633986574730,
+        "stop" : 1633986603303,
+        "duration" : 28573
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should redirect to pricing page, put credentials into inputs and work with \"Explore\" menu item ",
+      "uid" : "8ef65a703054d55e",
+      "parentUid" : "452acfb6b7c089a5e7e332320d40bf19",
+      "status" : "broken",
+      "time" : {
+        "start" : 1633986603303,
+        "stop" : 1633986618340,
+        "duration" : 15037
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should check how search field works in GitHub",
+      "uid" : "ae855b705b56ea20",
+      "parentUid" : "452acfb6b7c089a5e7e332320d40bf19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633986618340,
+        "stop" : 1633986624916,
+        "duration" : 6576
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should check the work of enterprice redirection from GitHub",
+      "uid" : "f4a51940ba49cba5",
+      "parentUid" : "452acfb6b7c089a5e7e332320d40bf19",
+      "status" : "broken",
+      "time" : {
+        "start" : 1633986624917,
+        "stop" : 1633986637515,
+        "duration" : 12598
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should check the work of enterprise cloud redirection on GitHub",
+      "uid" : "2049022410051f7c",
+      "parentUid" : "452acfb6b7c089a5e7e332320d40bf19",
+      "status" : "broken",
+      "time" : {
+        "start" : 1633986637515,
+        "stop" : 1633986647765,
+        "duration" : 10250
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should print the list of vacanties into console terminal",
+      "uid" : "4795da7b7f940cbf",
+      "parentUid" : "452acfb6b7c089a5e7e332320d40bf19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633986647765,
+        "stop" : 1633986649539,
+        "duration" : 1774
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    } ],
+    "uid" : "452acfb6b7c089a5e7e332320d40bf19"
+  } ],
+  "name" : "suites"
+}

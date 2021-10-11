@@ -1,0 +1,91 @@
+{
+  "uid" : "8ef65a703054d55e",
+  "name" : "should redirect to pricing page, put credentials into inputs and work with \"Explore\" menu item ",
+  "fullName" : "Home project for QA automation.should redirect to pricing page, put credentials into inputs and work with \"Explore\" menu item ",
+  "historyId" : "44535631697634df519fc6ab1b150292",
+  "time" : {
+    "start" : 1633986603303,
+    "stop" : 1633986618340,
+    "duration" : 15037
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element not interactable\n                  (Session info: headless chrome=94.0.4606.71)",
+  "statusTrace" : "element not interactable: element not interactable\n                  (Session info: headless chrome=94.0.4606.71)\n                    at Object.getErrorFromResponseBody (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriver/build/utils.js:189:12)\n                    at WebDriverRequest._request (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriver/build/request.js:168:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Element.elementErrorHandlerCallbackFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/middlewares.js:23:32)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Element.elementErrorHandlerCallbackFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/middlewares.js:23:32)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element not interactable\n                  (Session info: headless chrome=94.0.4606.71)",
+    "statusTrace" : "element not interactable: element not interactable\n                  (Session info: headless chrome=94.0.4606.71)\n                    at Object.getErrorFromResponseBody (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriver/build/utils.js:189:12)\n                    at WebDriverRequest._request (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriver/build/request.js:168:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Element.elementErrorHandlerCallbackFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/middlewares.js:23:32)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Element.elementErrorHandlerCallbackFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/middlewares.js:23:32)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ffe5383b3a21dd02",
+      "name" : "Screenshot",
+      "source" : "ffe5383b3a21dd02.png",
+      "type" : "image/png",
+      "size" : 106155
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testClass",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should redirect to pricing page, put credentials into inputs and work with \"Explore\" menu item "
+  }, {
+    "name" : "package",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2013cbf3f48ecc77",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n                  (Session info: headless chrome=94.0.4606.71)",
+      "time" : {
+        "start" : 1633986500846,
+        "stop" : 1633986516028,
+        "duration" : 15182
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8ef65a703054d55e.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

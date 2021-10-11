@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "452acfb6b7c089a5e7e332320d40bf19",
+    "name" : "Home project for QA automation",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 9
+    }
+  } ]
+}

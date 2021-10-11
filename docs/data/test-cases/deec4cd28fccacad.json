@@ -1,0 +1,82 @@
+{
+  "uid" : "deec4cd28fccacad",
+  "name" : "should check mouseOver event on menu elements",
+  "fullName" : "Home project for QA automation.should check mouseOver event on menu elements",
+  "historyId" : "5a659d881c819b124247d163216bb11f",
+  "time" : {
+    "start" : 1633986574730,
+    "stop" : 1633986603303,
+    "duration" : 28573
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5ef5ea400bf2340e",
+      "name" : "Screenshot",
+      "source" : "5ef5ea400bf2340e.png",
+      "type" : "image/png",
+      "size" : 515268
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testClass",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check mouseOver event on menu elements"
+  }, {
+    "name" : "package",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e84af998e43b7af8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633986471884,
+        "stop" : 1633986500846,
+        "duration" : 28962
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "deec4cd28fccacad.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

@@ -1,0 +1,76 @@
+{
+  "uid" : "e2d6194e26fa684f",
+  "name" : "should sign in an already created user with certain email and password",
+  "fullName" : "Home project for QA automation.should sign in an already created user with certain email and password",
+  "historyId" : "3f94e2d08e90f825180456596a4a2c7d",
+  "time" : {
+    "start" : 1633986453784,
+    "stop" : 1633986466882,
+    "duration" : 13098
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call click on element with selector \"[class=\"btn btn-primary btn-block\"]\" because element wasn't found",
+  "statusTrace" : "Error: Can't call click on element with selector \"[class=\"btn btn-primary btn-block\"]\" because element wasn't found\n                    at Object.implicitWait [as default] (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/utils/implicitWait.js:34:19)\n                    at async Element.elementErrorHandlerCallbackFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/middlewares.js:19:29)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async SignInPage.clickSignInBtn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/test/page/sign-in.page.js:43:9)\n                    at async Context.<anonymous> (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/test/specs/basic.js:68:9)\n                    at async Context.executeAsync (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:136:16)\n                    at async Context.testFrameworkFnWrapper (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:52:18)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Can't call click on element with selector \"[class=\"btn btn-primary btn-block\"]\" because element wasn't found",
+    "statusTrace" : "Error: Can't call click on element with selector \"[class=\"btn btn-primary btn-block\"]\" because element wasn't found\n                    at Object.implicitWait [as default] (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/utils/implicitWait.js:34:19)\n                    at async Element.elementErrorHandlerCallbackFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/middlewares.js:19:29)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async SignInPage.clickSignInBtn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/test/page/sign-in.page.js:43:9)\n                    at async Context.<anonymous> (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/test/specs/basic.js:68:9)\n                    at async Context.executeAsync (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:136:16)\n                    at async Context.testFrameworkFnWrapper (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:52:18)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b5c3163132ef0d04",
+      "name" : "Screenshot",
+      "source" : "b5c3163132ef0d04.png",
+      "type" : "image/png",
+      "size" : 34120
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testClass",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should sign in an already created user with certain email and password"
+  }, {
+    "name" : "package",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e2d6194e26fa684f.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

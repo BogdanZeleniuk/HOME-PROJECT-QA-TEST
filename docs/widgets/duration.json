@@ -1,0 +1,91 @@
+[ {
+  "uid" : "4795da7b7f940cbf",
+  "name" : "should print the list of vacanties into console terminal",
+  "time" : {
+    "start" : 1633986647765,
+    "stop" : 1633986649539,
+    "duration" : 1774
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17f16a72229dd83f",
+  "name" : "should show the error message or sent new password on email after putting data into forgotPassword input",
+  "time" : {
+    "start" : 1633986569697,
+    "stop" : 1633986574730,
+    "duration" : 5033
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "deec4cd28fccacad",
+  "name" : "should check mouseOver event on menu elements",
+  "time" : {
+    "start" : 1633986574730,
+    "stop" : 1633986603303,
+    "duration" : 28573
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7fd8910b42e3b",
+  "name" : "should put random credentials into signUp form",
+  "time" : {
+    "start" : 1633986549334,
+    "stop" : 1633986556508,
+    "duration" : 7174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ef65a703054d55e",
+  "name" : "should redirect to pricing page, put credentials into inputs and work with \"Explore\" menu item ",
+  "time" : {
+    "start" : 1633986603303,
+    "stop" : 1633986618340,
+    "duration" : 15037
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ae855b705b56ea20",
+  "name" : "should check how search field works in GitHub",
+  "time" : {
+    "start" : 1633986618340,
+    "stop" : 1633986624916,
+    "duration" : 6576
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2bd5ff680a026a95",
+  "name" : "should sign in an already created user with certain email and password",
+  "time" : {
+    "start" : 1633986556509,
+    "stop" : 1633986569696,
+    "duration" : 13187
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f4a51940ba49cba5",
+  "name" : "should check the work of enterprice redirection from GitHub",
+  "time" : {
+    "start" : 1633986624917,
+    "stop" : 1633986637515,
+    "duration" : 12598
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2049022410051f7c",
+  "name" : "should check the work of enterprise cloud redirection on GitHub",
+  "time" : {
+    "start" : 1633986637515,
+    "stop" : 1633986647765,
+    "duration" : 10250
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

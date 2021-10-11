@@ -1,0 +1,82 @@
+{
+  "uid" : "ae855b705b56ea20",
+  "name" : "should check how search field works in GitHub",
+  "fullName" : "Home project for QA automation.should check how search field works in GitHub",
+  "historyId" : "81fb5aa1b67b339184b461ffb1f83ba2",
+  "time" : {
+    "start" : 1633986618340,
+    "stop" : 1633986624916,
+    "duration" : 6576
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1dab045f3d8bc372",
+      "name" : "Screenshot",
+      "source" : "1dab045f3d8bc372.png",
+      "type" : "image/png",
+      "size" : 200843
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testClass",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check how search field works in GitHub"
+  }, {
+    "name" : "package",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b6317443dd3eeecf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633986516030,
+        "stop" : 1633986522638,
+        "duration" : 6608
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae855b705b56ea20.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}
