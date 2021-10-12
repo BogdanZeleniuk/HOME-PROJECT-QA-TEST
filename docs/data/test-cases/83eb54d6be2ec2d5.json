@@ -1,12 +1,12 @@
 {
-  "uid" : "62870555d1628b6c",
+  "uid" : "83eb54d6be2ec2d5",
   "name" : "should check the work of enterprice redirection from GitHub",
   "fullName" : "Home project for QA automation.should check the work of enterprice redirection from GitHub",
   "historyId" : "570fdc6faf38a5e0eb99902f5406230e",
   "time" : {
-    "start" : 1633986522639,
-    "stop" : 1633986535185,
-    "duration" : 12546
+    "start" : 1634017369715,
+    "stop" : 1634017382413,
+    "duration" : 12698
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -22,9 +22,9 @@
     "statusTrace" : "Error: Can't call click on element with selector \"[class=\"currency-container col-12 signup-plan-column js-details-container mr-sm-2 \"]\" because element wasn't found\n                    at Object.implicitWait [as default] (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/utils/implicitWait.js:34:19)\n                    at async Element.elementErrorHandlerCallbackFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/middlewares.js:19:29)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Context.<anonymous> (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/test/specs/basic.js:202:9)\n                    at async Context.executeAsync (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:136:16)\n                    at async Context.testFrameworkFnWrapper (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:52:18)",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "44780089cb8ed3a5",
+      "uid" : "46b893c3ab686dd5",
       "name" : "Screenshot",
-      "source" : "44780089cb8ed3a5.png",
+      "source" : "46b893c3ab686dd5.png",
       "type" : "image/png",
       "size" : 58756
     } ],
@@ -71,6 +71,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "62870555d1628b6c.json",
+  "source" : "83eb54d6be2ec2d5.json",
   "parameterValues" : [ "chrome-94.0.4606.71" ]
 }

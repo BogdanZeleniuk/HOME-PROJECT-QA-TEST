@@ -1,12 +1,12 @@
 {
-  "uid" : "deec4cd28fccacad",
+  "uid" : "a07bd52ae2c0e168",
   "name" : "should check mouseOver event on menu elements",
   "fullName" : "Home project for QA automation.should check mouseOver event on menu elements",
   "historyId" : "5a659d881c819b124247d163216bb11f",
   "time" : {
-    "start" : 1633986574730,
-    "stop" : 1633986603303,
-    "duration" : 28573
+    "start" : 1634017421957,
+    "stop" : 1634017450667,
+    "duration" : 28710
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,11 +18,11 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "5ef5ea400bf2340e",
+      "uid" : "df9b1eab2f75a8b",
       "name" : "Screenshot",
-      "source" : "5ef5ea400bf2340e.png",
+      "source" : "df9b1eab2f75a8b.png",
       "type" : "image/png",
-      "size" : 515268
+      "size" : 510047
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -66,17 +66,17 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ {
-      "uid" : "e84af998e43b7af8",
+      "uid" : "c2e2d1345bc693f8",
       "status" : "passed",
       "time" : {
-        "start" : 1633986471884,
-        "stop" : 1633986500846,
-        "duration" : 28962
+        "start" : 1634017319878,
+        "stop" : 1634017348101,
+        "duration" : 28223
       }
     } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "deec4cd28fccacad.json",
+  "source" : "a07bd52ae2c0e168.json",
   "parameterValues" : [ "chrome-94.0.4606.71" ]
 }

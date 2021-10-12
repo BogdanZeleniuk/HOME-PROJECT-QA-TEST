@@ -1,12 +1,12 @@
 {
-  "uid" : "19ed72caeed69daf",
+  "uid" : "6cd9b5aad1edace8",
   "name" : "should check the work of enterprise cloud redirection on GitHub",
   "fullName" : "Home project for QA automation.should check the work of enterprise cloud redirection on GitHub",
   "historyId" : "84d1fbb07ac208fbf8660da4f1a5c5bd",
   "time" : {
-    "start" : 1633986535186,
-    "stop" : 1633986545437,
-    "duration" : 10251
+    "start" : 1634017484942,
+    "stop" : 1634017495274,
+    "duration" : 10332
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -22,9 +22,9 @@
     "statusTrace" : "Error: Can't call click on element with selector \"[class=\"currency-container col-12 signup-plan-column js-details-container\"]\" because element wasn't found\n                    at Object.implicitWait [as default] (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/utils/implicitWait.js:34:19)\n                    at async Element.elementErrorHandlerCallbackFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/middlewares.js:19:29)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Context.<anonymous> (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/test/specs/basic.js:225:9)\n                    at async Context.executeAsync (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:136:16)\n                    at async Context.testFrameworkFnWrapper (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:52:18)",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "d4cb9b0f0263870b",
+      "uid" : "5835405df6b2cd6e",
       "name" : "Screenshot",
-      "source" : "d4cb9b0f0263870b.png",
+      "source" : "5835405df6b2cd6e.png",
       "type" : "image/png",
       "size" : 58756
     } ],
@@ -65,12 +65,27 @@
     "value" : "chrome-94.0.4606.71"
   } ],
   "links" : [ ],
-  "hidden" : true,
-  "retry" : true,
+  "hidden" : false,
+  "retry" : false,
   "extra" : {
-    "categories" : [ ],
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5bb46301151f83f0",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"[class=\"currency-container col-12 signup-plan-column js-details-container\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1634017382415,
+        "stop" : 1634017392661,
+        "duration" : 10246
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
     "tags" : [ ]
   },
-  "source" : "19ed72caeed69daf.json",
+  "source" : "6cd9b5aad1edace8.json",
   "parameterValues" : [ "chrome-94.0.4606.71" ]
 }

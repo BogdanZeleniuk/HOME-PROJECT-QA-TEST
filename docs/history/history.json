@@ -9,12 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "deec4cd28fccacad",
+      "uid" : "a07bd52ae2c0e168",
       "status" : "passed",
       "time" : {
-        "start" : 1633986574730,
-        "stop" : 1633986603303,
-        "duration" : 28573
+        "start" : 1634017421957,
+        "stop" : 1634017450667,
+        "duration" : 28710
       }
     } ]
   },
@@ -28,13 +28,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f4a51940ba49cba5",
+      "uid" : "7347d05c97720208",
       "status" : "broken",
       "statusDetails" : "Can't call click on element with selector \"[class=\"currency-container col-12 signup-plan-column js-details-container mr-sm-2 \"]\" because element wasn't found",
       "time" : {
-        "start" : 1633986624917,
-        "stop" : 1633986637515,
-        "duration" : 12598
+        "start" : 1634017472462,
+        "stop" : 1634017484942,
+        "duration" : 12480
       }
     } ]
   },
@@ -48,12 +48,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a7fd8910b42e3b",
+      "uid" : "667a3643f2da669f",
       "status" : "passed",
       "time" : {
-        "start" : 1633986549334,
-        "stop" : 1633986556508,
-        "duration" : 7174
+        "start" : 1634017396596,
+        "stop" : 1634017404149,
+        "duration" : 7553
       }
     } ]
   },
@@ -67,12 +67,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "17f16a72229dd83f",
+      "uid" : "c23569e38a05e5f",
       "status" : "passed",
       "time" : {
-        "start" : 1633986569697,
-        "stop" : 1633986574730,
-        "duration" : 5033
+        "start" : 1634017416907,
+        "stop" : 1634017421957,
+        "duration" : 5050
       }
     } ]
   },
@@ -86,13 +86,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8ef65a703054d55e",
+      "uid" : "df787f7668895df9",
       "status" : "broken",
       "statusDetails" : "element not interactable\n                  (Session info: headless chrome=94.0.4606.71)",
       "time" : {
-        "start" : 1633986603303,
-        "stop" : 1633986618340,
-        "duration" : 15037
+        "start" : 1634017450667,
+        "stop" : 1634017465734,
+        "duration" : 15067
       }
     } ]
   },
@@ -106,32 +106,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2bd5ff680a026a95",
+      "uid" : "3a3b618d2228ab6d",
       "status" : "broken",
       "statusDetails" : "Can't call click on element with selector \"[class=\"btn btn-primary btn-block\"]\" because element wasn't found",
       "time" : {
-        "start" : 1633986556509,
-        "stop" : 1633986569696,
-        "duration" : 13187
-      }
-    } ]
-  },
-  "8e8d0adf5189a07e15cac42e84996cc9" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "4795da7b7f940cbf",
-      "status" : "passed",
-      "time" : {
-        "start" : 1633986647765,
-        "stop" : 1633986649539,
-        "duration" : 1774
+        "start" : 1634017404150,
+        "stop" : 1634017416906,
+        "duration" : 12756
       }
     } ]
   },
@@ -145,12 +126,31 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ae855b705b56ea20",
+      "uid" : "65c241c1c042cbf",
       "status" : "passed",
       "time" : {
-        "start" : 1633986618340,
-        "stop" : 1633986624916,
-        "duration" : 6576
+        "start" : 1634017465734,
+        "stop" : 1634017472462,
+        "duration" : 6728
+      }
+    } ]
+  },
+  "8e8d0adf5189a07e15cac42e84996cc9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "43681e4767e43eaf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634017495277,
+        "stop" : 1634017496269,
+        "duration" : 992
       }
     } ]
   },
@@ -164,13 +164,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2049022410051f7c",
+      "uid" : "6cd9b5aad1edace8",
       "status" : "broken",
       "statusDetails" : "Can't call click on element with selector \"[class=\"currency-container col-12 signup-plan-column js-details-container\"]\" because element wasn't found",
       "time" : {
-        "start" : 1633986637515,
-        "stop" : 1633986647765,
-        "duration" : 10250
+        "start" : 1634017484942,
+        "stop" : 1634017495274,
+        "duration" : 10332
       }
     } ]
   }

@@ -1,12 +1,12 @@
 {
-  "uid" : "4795da7b7f940cbf",
-  "name" : "should print the list of vacanties into console terminal",
-  "fullName" : "Home project for QA automation.should print the list of vacanties into console terminal",
-  "historyId" : "8e8d0adf5189a07e15cac42e84996cc9",
+  "uid" : "c2e2d1345bc693f8",
+  "name" : "should check mouseOver event on menu elements",
+  "fullName" : "Home project for QA automation.should check mouseOver event on menu elements",
+  "historyId" : "5a659d881c819b124247d163216bb11f",
   "time" : {
-    "start" : 1633986647765,
-    "stop" : 1633986649539,
-    "duration" : 1774
+    "start" : 1634017319878,
+    "stop" : 1634017348101,
+    "duration" : 28223
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,11 +18,11 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "c5041d5c0b2c6501",
+      "uid" : "ea3f07ea7f88252d",
       "name" : "Screenshot",
-      "source" : "c5041d5c0b2c6501.png",
+      "source" : "ea3f07ea7f88252d.png",
       "type" : "image/png",
-      "size" : 121633
+      "size" : 510159
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -48,7 +48,7 @@
     "value" : "Home project for QA automation"
   }, {
     "name" : "testMethod",
-    "value" : "should print the list of vacanties into console terminal"
+    "value" : "should check mouseOver event on menu elements"
   }, {
     "name" : "package",
     "value" : "Home project for QA automation"
@@ -61,22 +61,12 @@
     "value" : "chrome-94.0.4606.71"
   } ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ {
-      "uid" : "cfe7ce1c134d4414",
-      "status" : "passed",
-      "time" : {
-        "start" : 1633986545438,
-        "stop" : 1633986547268,
-        "duration" : 1830
-      }
-    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "4795da7b7f940cbf.json",
+  "source" : "c2e2d1345bc693f8.json",
   "parameterValues" : [ "chrome-94.0.4606.71" ]
 }

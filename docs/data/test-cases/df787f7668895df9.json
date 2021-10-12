@@ -1,12 +1,12 @@
 {
-  "uid" : "2013cbf3f48ecc77",
+  "uid" : "df787f7668895df9",
   "name" : "should redirect to pricing page, put credentials into inputs and work with \"Explore\" menu item ",
   "fullName" : "Home project for QA automation.should redirect to pricing page, put credentials into inputs and work with \"Explore\" menu item ",
   "historyId" : "44535631697634df519fc6ab1b150292",
   "time" : {
-    "start" : 1633986500846,
-    "stop" : 1633986516028,
-    "duration" : 15182
+    "start" : 1634017450667,
+    "stop" : 1634017465734,
+    "duration" : 15067
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -22,9 +22,9 @@
     "statusTrace" : "element not interactable: element not interactable\n                  (Session info: headless chrome=94.0.4606.71)\n                    at Object.getErrorFromResponseBody (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriver/build/utils.js:189:12)\n                    at WebDriverRequest._request (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriver/build/request.js:168:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Element.elementErrorHandlerCallbackFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/middlewares.js:23:32)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Element.elementErrorHandlerCallbackFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/middlewares.js:23:32)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "9b22af3b6c500a73",
+      "uid" : "efb1c367df03d01c",
       "name" : "Screenshot",
-      "source" : "9b22af3b6c500a73.png",
+      "source" : "efb1c367df03d01c.png",
       "type" : "image/png",
       "size" : 106155
     } ],
@@ -65,12 +65,27 @@
     "value" : "chrome-94.0.4606.71"
   } ],
   "links" : [ ],
-  "hidden" : true,
-  "retry" : true,
+  "hidden" : false,
+  "retry" : false,
   "extra" : {
-    "categories" : [ ],
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a415ec36cd77a662",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n                  (Session info: headless chrome=94.0.4606.71)",
+      "time" : {
+        "start" : 1634017348101,
+        "stop" : 1634017363004,
+        "duration" : 14903
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
     "tags" : [ ]
   },
-  "source" : "2013cbf3f48ecc77.json",
+  "source" : "df787f7668895df9.json",
   "parameterValues" : [ "chrome-94.0.4606.71" ]
 }

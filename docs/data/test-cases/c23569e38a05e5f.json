@@ -1,12 +1,12 @@
 {
-  "uid" : "b6317443dd3eeecf",
-  "name" : "should check how search field works in GitHub",
-  "fullName" : "Home project for QA automation.should check how search field works in GitHub",
-  "historyId" : "81fb5aa1b67b339184b461ffb1f83ba2",
+  "uid" : "c23569e38a05e5f",
+  "name" : "should show the error message or sent new password on email after putting data into forgotPassword input",
+  "fullName" : "Home project for QA automation.should show the error message or sent new password on email after putting data into forgotPassword input",
+  "historyId" : "cf91fdfc8e0b2b23e9dab51545a8dd6b",
   "time" : {
-    "start" : 1633986516030,
-    "stop" : 1633986522638,
-    "duration" : 6608
+    "start" : 1634017416907,
+    "stop" : 1634017421957,
+    "duration" : 5050
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,11 +18,11 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "8a2bbbbaf1527c61",
+      "uid" : "a9f7149fbac6a3a7",
       "name" : "Screenshot",
-      "source" : "8a2bbbbaf1527c61.png",
+      "source" : "a9f7149fbac6a3a7.png",
       "type" : "image/png",
-      "size" : 200843
+      "size" : 49037
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -48,7 +48,7 @@
     "value" : "Home project for QA automation"
   }, {
     "name" : "testMethod",
-    "value" : "should check how search field works in GitHub"
+    "value" : "should show the error message or sent new password on email after putting data into forgotPassword input"
   }, {
     "name" : "package",
     "value" : "Home project for QA automation"
@@ -61,12 +61,22 @@
     "value" : "chrome-94.0.4606.71"
   } ],
   "links" : [ ],
-  "hidden" : true,
-  "retry" : true,
+  "hidden" : false,
+  "retry" : false,
   "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eca10439b8643a74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634017315614,
+        "stop" : 1634017319878,
+        "duration" : 4264
+      }
+    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "b6317443dd3eeecf.json",
+  "source" : "c23569e38a05e5f.json",
   "parameterValues" : [ "chrome-94.0.4606.71" ]
 }

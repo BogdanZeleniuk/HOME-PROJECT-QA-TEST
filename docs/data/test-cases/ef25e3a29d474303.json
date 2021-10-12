@@ -1,12 +1,12 @@
 {
-  "uid" : "cfe7ce1c134d4414",
+  "uid" : "ef25e3a29d474303",
   "name" : "should print the list of vacanties into console terminal",
   "fullName" : "Home project for QA automation.should print the list of vacanties into console terminal",
   "historyId" : "8e8d0adf5189a07e15cac42e84996cc9",
   "time" : {
-    "start" : 1633986545438,
-    "stop" : 1633986547268,
-    "duration" : 1830
+    "start" : 1634017392662,
+    "stop" : 1634017394512,
+    "duration" : 1850
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,11 +18,11 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "2b080a413e5b3e09",
+      "uid" : "3fd5882e92595fc1",
       "name" : "Screenshot",
-      "source" : "2b080a413e5b3e09.png",
+      "source" : "3fd5882e92595fc1.png",
       "type" : "image/png",
-      "size" : 133712
+      "size" : 136811
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -67,6 +67,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "cfe7ce1c134d4414.json",
+  "source" : "ef25e3a29d474303.json",
   "parameterValues" : [ "chrome-94.0.4606.71" ]
 }

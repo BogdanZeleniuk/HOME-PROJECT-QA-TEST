@@ -1,12 +1,12 @@
 {
-  "uid" : "bfb05d081f5ea2de",
-  "name" : "should show the error message or sent new password on email after putting data into forgotPassword input",
-  "fullName" : "Home project for QA automation.should show the error message or sent new password on email after putting data into forgotPassword input",
-  "historyId" : "cf91fdfc8e0b2b23e9dab51545a8dd6b",
+  "uid" : "652a0947a085c55c",
+  "name" : "should check how search field works in GitHub",
+  "fullName" : "Home project for QA automation.should check how search field works in GitHub",
+  "historyId" : "81fb5aa1b67b339184b461ffb1f83ba2",
   "time" : {
-    "start" : 1633986466883,
-    "stop" : 1633986471884,
-    "duration" : 5001
+    "start" : 1634017363004,
+    "stop" : 1634017369715,
+    "duration" : 6711
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,11 +18,11 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "4c27245e17fec388",
+      "uid" : "c4950dc204f926f2",
       "name" : "Screenshot",
-      "source" : "4c27245e17fec388.png",
+      "source" : "c4950dc204f926f2.png",
       "type" : "image/png",
-      "size" : 49037
+      "size" : 201343
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -48,7 +48,7 @@
     "value" : "Home project for QA automation"
   }, {
     "name" : "testMethod",
-    "value" : "should show the error message or sent new password on email after putting data into forgotPassword input"
+    "value" : "should check how search field works in GitHub"
   }, {
     "name" : "package",
     "value" : "Home project for QA automation"
@@ -67,6 +67,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "bfb05d081f5ea2de.json",
+  "source" : "652a0947a085c55c.json",
   "parameterValues" : [ "chrome-94.0.4606.71" ]
 }

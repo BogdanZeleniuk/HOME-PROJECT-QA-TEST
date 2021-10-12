@@ -1,12 +1,12 @@
 {
-  "uid" : "a7fd8910b42e3b",
-  "name" : "should put random credentials into signUp form",
-  "fullName" : "Home project for QA automation.should put random credentials into signUp form",
-  "historyId" : "711de0d830c887cf6e0dfdce0c167376",
+  "uid" : "43681e4767e43eaf",
+  "name" : "should print the list of vacanties into console terminal",
+  "fullName" : "Home project for QA automation.should print the list of vacanties into console terminal",
+  "historyId" : "8e8d0adf5189a07e15cac42e84996cc9",
   "time" : {
-    "start" : 1633986549334,
-    "stop" : 1633986556508,
-    "duration" : 7174
+    "start" : 1634017495277,
+    "stop" : 1634017496269,
+    "duration" : 992
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,11 +18,11 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "61d832ea4b86920b",
+      "uid" : "dbe0cf2d8e3b2871",
       "name" : "Screenshot",
-      "source" : "61d832ea4b86920b.png",
+      "source" : "dbe0cf2d8e3b2871.png",
       "type" : "image/png",
-      "size" : 173240
+      "size" : 133712
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -48,7 +48,7 @@
     "value" : "Home project for QA automation"
   }, {
     "name" : "testMethod",
-    "value" : "should put random credentials into signUp form"
+    "value" : "should print the list of vacanties into console terminal"
   }, {
     "name" : "package",
     "value" : "Home project for QA automation"
@@ -66,17 +66,17 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ {
-      "uid" : "14135da1556eab51",
+      "uid" : "ef25e3a29d474303",
       "status" : "passed",
       "time" : {
-        "start" : 1633986445721,
-        "stop" : 1633986453783,
-        "duration" : 8062
+        "start" : 1634017392662,
+        "stop" : 1634017394512,
+        "duration" : 1850
       }
     } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "a7fd8910b42e3b.json",
+  "source" : "43681e4767e43eaf.json",
   "parameterValues" : [ "chrome-94.0.4606.71" ]
 }

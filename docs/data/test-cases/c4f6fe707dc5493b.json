@@ -1,12 +1,12 @@
 {
-  "uid" : "ae855b705b56ea20",
-  "name" : "should check how search field works in GitHub",
-  "fullName" : "Home project for QA automation.should check how search field works in GitHub",
-  "historyId" : "81fb5aa1b67b339184b461ffb1f83ba2",
+  "uid" : "c4f6fe707dc5493b",
+  "name" : "should put random credentials into signUp form",
+  "fullName" : "Home project for QA automation.should put random credentials into signUp form",
+  "historyId" : "711de0d830c887cf6e0dfdce0c167376",
   "time" : {
-    "start" : 1633986618340,
-    "stop" : 1633986624916,
-    "duration" : 6576
+    "start" : 1634017294004,
+    "stop" : 1634017302500,
+    "duration" : 8496
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,11 +18,11 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "1dab045f3d8bc372",
+      "uid" : "20b2fe9f7d335047",
       "name" : "Screenshot",
-      "source" : "1dab045f3d8bc372.png",
+      "source" : "20b2fe9f7d335047.png",
       "type" : "image/png",
-      "size" : 200843
+      "size" : 173562
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -48,7 +48,7 @@
     "value" : "Home project for QA automation"
   }, {
     "name" : "testMethod",
-    "value" : "should check how search field works in GitHub"
+    "value" : "should put random credentials into signUp form"
   }, {
     "name" : "package",
     "value" : "Home project for QA automation"
@@ -61,22 +61,12 @@
     "value" : "chrome-94.0.4606.71"
   } ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ {
-      "uid" : "b6317443dd3eeecf",
-      "status" : "passed",
-      "time" : {
-        "start" : 1633986516030,
-        "stop" : 1633986522638,
-        "duration" : 6608
-      }
-    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "ae855b705b56ea20.json",
+  "source" : "c4f6fe707dc5493b.json",
   "parameterValues" : [ "chrome-94.0.4606.71" ]
 }

@@ -1,12 +1,12 @@
 {
-  "uid" : "e84af998e43b7af8",
-  "name" : "should check mouseOver event on menu elements",
-  "fullName" : "Home project for QA automation.should check mouseOver event on menu elements",
-  "historyId" : "5a659d881c819b124247d163216bb11f",
+  "uid" : "eca10439b8643a74",
+  "name" : "should show the error message or sent new password on email after putting data into forgotPassword input",
+  "fullName" : "Home project for QA automation.should show the error message or sent new password on email after putting data into forgotPassword input",
+  "historyId" : "cf91fdfc8e0b2b23e9dab51545a8dd6b",
   "time" : {
-    "start" : 1633986471884,
-    "stop" : 1633986500846,
-    "duration" : 28962
+    "start" : 1634017315614,
+    "stop" : 1634017319878,
+    "duration" : 4264
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,11 +18,11 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "157f6a5977d3bc2d",
+      "uid" : "7b57160265969e4c",
       "name" : "Screenshot",
-      "source" : "157f6a5977d3bc2d.png",
+      "source" : "7b57160265969e4c.png",
       "type" : "image/png",
-      "size" : 513085
+      "size" : 49037
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -48,7 +48,7 @@
     "value" : "Home project for QA automation"
   }, {
     "name" : "testMethod",
-    "value" : "should check mouseOver event on menu elements"
+    "value" : "should show the error message or sent new password on email after putting data into forgotPassword input"
   }, {
     "name" : "package",
     "value" : "Home project for QA automation"
@@ -67,6 +67,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "e84af998e43b7af8.json",
+  "source" : "eca10439b8643a74.json",
   "parameterValues" : [ "chrome-94.0.4606.71" ]
 }

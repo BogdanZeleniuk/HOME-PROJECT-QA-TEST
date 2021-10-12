@@ -4,234 +4,234 @@
     "name" : "0-0",
     "children" : [ {
       "name" : "should show the error message or sent new password on email after putting data into forgotPassword input",
-      "uid" : "17f16a72229dd83f",
+      "uid" : "eca10439b8643a74",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1633986569697,
-        "stop" : 1633986574730,
-        "duration" : 5033
+        "start" : 1634017315614,
+        "stop" : 1634017319878,
+        "duration" : 4264
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should sign in an already created user with certain email and password",
+      "uid" : "3a3b618d2228ab6d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1634017404150,
+        "stop" : 1634017416906,
+        "duration" : 12756
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should sign in an already created user with certain email and password",
+      "uid" : "33a4593c4fd9a1d4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1634017302502,
+        "stop" : 1634017315614,
+        "duration" : 13112
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should print the list of vacanties into console terminal",
+      "uid" : "ef25e3a29d474303",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634017392662,
+        "stop" : 1634017394512,
+        "duration" : 1850
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-94.0.4606.71" ]
     }, {
       "name" : "should show the error message or sent new password on email after putting data into forgotPassword input",
-      "uid" : "bfb05d081f5ea2de",
+      "uid" : "c23569e38a05e5f",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1633986466883,
-        "stop" : 1633986471884,
-        "duration" : 5001
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome-94.0.4606.71" ]
-    }, {
-      "name" : "should check the work of enterprice redirection from GitHub",
-      "uid" : "f4a51940ba49cba5",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1633986624917,
-        "stop" : 1633986637515,
-        "duration" : 12598
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome-94.0.4606.71" ]
-    }, {
-      "name" : "should check the work of enterprise cloud redirection on GitHub",
-      "uid" : "2049022410051f7c",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1633986637515,
-        "stop" : 1633986647765,
-        "duration" : 10250
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome-94.0.4606.71" ]
-    }, {
-      "name" : "should check the work of enterprise cloud redirection on GitHub",
-      "uid" : "19ed72caeed69daf",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1633986535186,
-        "stop" : 1633986545437,
-        "duration" : 10251
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome-94.0.4606.71" ]
-    }, {
-      "name" : "should check mouseOver event on menu elements",
-      "uid" : "deec4cd28fccacad",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1633986574730,
-        "stop" : 1633986603303,
-        "duration" : 28573
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome-94.0.4606.71" ]
-    }, {
-      "name" : "should print the list of vacanties into console terminal",
-      "uid" : "4795da7b7f940cbf",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1633986647765,
-        "stop" : 1633986649539,
-        "duration" : 1774
+        "start" : 1634017416907,
+        "stop" : 1634017421957,
+        "duration" : 5050
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-94.0.4606.71" ]
     }, {
       "name" : "should check how search field works in GitHub",
-      "uid" : "ae855b705b56ea20",
+      "uid" : "65c241c1c042cbf",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1633986618340,
-        "stop" : 1633986624916,
-        "duration" : 6576
+        "start" : 1634017465734,
+        "stop" : 1634017472462,
+        "duration" : 6728
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-94.0.4606.71" ]
     }, {
       "name" : "should print the list of vacanties into console terminal",
-      "uid" : "cfe7ce1c134d4414",
+      "uid" : "43681e4767e43eaf",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1633986545438,
-        "stop" : 1633986547268,
-        "duration" : 1830
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome-94.0.4606.71" ]
-    }, {
-      "name" : "should put random credentials into signUp form",
-      "uid" : "14135da1556eab51",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1633986445721,
-        "stop" : 1633986453783,
-        "duration" : 8062
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome-94.0.4606.71" ]
-    }, {
-      "name" : "should check mouseOver event on menu elements",
-      "uid" : "e84af998e43b7af8",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1633986471884,
-        "stop" : 1633986500846,
-        "duration" : 28962
+        "start" : 1634017495277,
+        "stop" : 1634017496269,
+        "duration" : 992
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-94.0.4606.71" ]
     }, {
       "name" : "should redirect to pricing page, put credentials into inputs and work with \"Explore\" menu item ",
-      "uid" : "2013cbf3f48ecc77",
+      "uid" : "a415ec36cd77a662",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "broken",
       "time" : {
-        "start" : 1633986500846,
-        "stop" : 1633986516028,
-        "duration" : 15182
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome-94.0.4606.71" ]
-    }, {
-      "name" : "should sign in an already created user with certain email and password",
-      "uid" : "2bd5ff680a026a95",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1633986556509,
-        "stop" : 1633986569696,
-        "duration" : 13187
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "chrome-94.0.4606.71" ]
-    }, {
-      "name" : "should put random credentials into signUp form",
-      "uid" : "a7fd8910b42e3b",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1633986549334,
-        "stop" : 1633986556508,
-        "duration" : 7174
+        "start" : 1634017348101,
+        "stop" : 1634017363004,
+        "duration" : 14903
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-94.0.4606.71" ]
     }, {
       "name" : "should check how search field works in GitHub",
-      "uid" : "b6317443dd3eeecf",
+      "uid" : "652a0947a085c55c",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1633986516030,
-        "stop" : 1633986522638,
-        "duration" : 6608
+        "start" : 1634017363004,
+        "stop" : 1634017369715,
+        "duration" : 6711
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should check the work of enterprise cloud redirection on GitHub",
+      "uid" : "5bb46301151f83f0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1634017382415,
+        "stop" : 1634017392661,
+        "duration" : 10246
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should put random credentials into signUp form",
+      "uid" : "c4f6fe707dc5493b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634017294004,
+        "stop" : 1634017302500,
+        "duration" : 8496
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-94.0.4606.71" ]
     }, {
       "name" : "should check the work of enterprice redirection from GitHub",
-      "uid" : "62870555d1628b6c",
+      "uid" : "83eb54d6be2ec2d5",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "broken",
       "time" : {
-        "start" : 1633986522639,
-        "stop" : 1633986535185,
-        "duration" : 12546
+        "start" : 1634017369715,
+        "stop" : 1634017382413,
+        "duration" : 12698
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-94.0.4606.71" ]
     }, {
-      "name" : "should sign in an already created user with certain email and password",
-      "uid" : "e2d6194e26fa684f",
+      "name" : "should check mouseOver event on menu elements",
+      "uid" : "a07bd52ae2c0e168",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
+      "status" : "passed",
       "time" : {
-        "start" : 1633986453784,
-        "stop" : 1633986466882,
-        "duration" : 13098
+        "start" : 1634017421957,
+        "stop" : 1634017450667,
+        "duration" : 28710
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-94.0.4606.71" ]
     }, {
       "name" : "should redirect to pricing page, put credentials into inputs and work with \"Explore\" menu item ",
-      "uid" : "8ef65a703054d55e",
+      "uid" : "df787f7668895df9",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "broken",
       "time" : {
-        "start" : 1633986603303,
-        "stop" : 1633986618340,
-        "duration" : 15037
+        "start" : 1634017450667,
+        "stop" : 1634017465734,
+        "duration" : 15067
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should check the work of enterprise cloud redirection on GitHub",
+      "uid" : "6cd9b5aad1edace8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1634017484942,
+        "stop" : 1634017495274,
+        "duration" : 10332
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should put random credentials into signUp form",
+      "uid" : "667a3643f2da669f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634017396596,
+        "stop" : 1634017404149,
+        "duration" : 7553
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should check mouseOver event on menu elements",
+      "uid" : "c2e2d1345bc693f8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634017319878,
+        "stop" : 1634017348101,
+        "duration" : 28223
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "should check the work of enterprice redirection from GitHub",
+      "uid" : "7347d05c97720208",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1634017472462,
+        "stop" : 1634017484942,
+        "duration" : 12480
       },
       "flaky" : false,
       "newFailed" : false,
