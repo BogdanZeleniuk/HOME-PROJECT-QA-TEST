@@ -70,11 +70,11 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@4.1.4
         if: always()
         with:
-          branch: master # The branch the action should deploy to.
-          folder: allure-report # The folder the action should deploy.
+          branch: master
+          folder: allure-report
           target-folder: docs   
       - name: Pushes docs to another repository
-        uses: cpina/github-action-push-to-another-repository@v1.3
+        uses: cpina/github-action-push-to-another-repository@main
         if: always()
         env:
           API_TOKEN_GITHUB: ${{ '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' }}
