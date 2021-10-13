@@ -1,0 +1,72 @@
+{
+  "uid" : "eca10439b8643a74",
+  "name" : "should show the error message or sent new password on email after putting data into forgotPassword input",
+  "fullName" : "Home project for QA automation.should show the error message or sent new password on email after putting data into forgotPassword input",
+  "historyId" : "cf91fdfc8e0b2b23e9dab51545a8dd6b",
+  "time" : {
+    "start" : 1634017315614,
+    "stop" : 1634017319878,
+    "duration" : 4264
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7b57160265969e4c",
+      "name" : "Screenshot",
+      "source" : "7b57160265969e4c.png",
+      "type" : "image/png",
+      "size" : 49037
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testClass",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show the error message or sent new password on email after putting data into forgotPassword input"
+  }, {
+    "name" : "package",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eca10439b8643a74.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

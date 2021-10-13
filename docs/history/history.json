@@ -1,0 +1,177 @@
+{
+  "5a659d881c819b124247d163216bb11f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a07bd52ae2c0e168",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634017421957,
+        "stop" : 1634017450667,
+        "duration" : 28710
+      }
+    } ]
+  },
+  "570fdc6faf38a5e0eb99902f5406230e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7347d05c97720208",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"[class=\"currency-container col-12 signup-plan-column js-details-container mr-sm-2 \"]\" because element wasn't found",
+      "time" : {
+        "start" : 1634017472462,
+        "stop" : 1634017484942,
+        "duration" : 12480
+      }
+    } ]
+  },
+  "711de0d830c887cf6e0dfdce0c167376" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "667a3643f2da669f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634017396596,
+        "stop" : 1634017404149,
+        "duration" : 7553
+      }
+    } ]
+  },
+  "cf91fdfc8e0b2b23e9dab51545a8dd6b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c23569e38a05e5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634017416907,
+        "stop" : 1634017421957,
+        "duration" : 5050
+      }
+    } ]
+  },
+  "44535631697634df519fc6ab1b150292" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df787f7668895df9",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n                  (Session info: headless chrome=94.0.4606.71)",
+      "time" : {
+        "start" : 1634017450667,
+        "stop" : 1634017465734,
+        "duration" : 15067
+      }
+    } ]
+  },
+  "3f94e2d08e90f825180456596a4a2c7d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a3b618d2228ab6d",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"[class=\"btn btn-primary btn-block\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1634017404150,
+        "stop" : 1634017416906,
+        "duration" : 12756
+      }
+    } ]
+  },
+  "81fb5aa1b67b339184b461ffb1f83ba2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65c241c1c042cbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634017465734,
+        "stop" : 1634017472462,
+        "duration" : 6728
+      }
+    } ]
+  },
+  "8e8d0adf5189a07e15cac42e84996cc9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "43681e4767e43eaf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634017495277,
+        "stop" : 1634017496269,
+        "duration" : 992
+      }
+    } ]
+  },
+  "84d1fbb07ac208fbf8660da4f1a5c5bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6cd9b5aad1edace8",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"[class=\"currency-container col-12 signup-plan-column js-details-container\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1634017484942,
+        "stop" : 1634017495274,
+        "duration" : 10332
+      }
+    } ]
+  }
+}

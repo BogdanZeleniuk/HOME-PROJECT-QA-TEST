@@ -1,0 +1,91 @@
+{
+  "uid" : "7347d05c97720208",
+  "name" : "should check the work of enterprice redirection from GitHub",
+  "fullName" : "Home project for QA automation.should check the work of enterprice redirection from GitHub",
+  "historyId" : "570fdc6faf38a5e0eb99902f5406230e",
+  "time" : {
+    "start" : 1634017472462,
+    "stop" : 1634017484942,
+    "duration" : 12480
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call click on element with selector \"[class=\"currency-container col-12 signup-plan-column js-details-container mr-sm-2 \"]\" because element wasn't found",
+  "statusTrace" : "Error: Can't call click on element with selector \"[class=\"currency-container col-12 signup-plan-column js-details-container mr-sm-2 \"]\" because element wasn't found\n                    at Object.implicitWait [as default] (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/utils/implicitWait.js:34:19)\n                    at async Element.elementErrorHandlerCallbackFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/middlewares.js:19:29)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Context.<anonymous> (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/test/specs/basic.js:202:9)\n                    at async Context.executeAsync (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:136:16)\n                    at async Context.testFrameworkFnWrapper (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:52:18)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Can't call click on element with selector \"[class=\"currency-container col-12 signup-plan-column js-details-container mr-sm-2 \"]\" because element wasn't found",
+    "statusTrace" : "Error: Can't call click on element with selector \"[class=\"currency-container col-12 signup-plan-column js-details-container mr-sm-2 \"]\" because element wasn't found\n                    at Object.implicitWait [as default] (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/utils/implicitWait.js:34:19)\n                    at async Element.elementErrorHandlerCallbackFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/webdriverio/build/middlewares.js:19:29)\n                    at async Element.wrapCommandFn (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:78:29)\n                    at async Context.<anonymous> (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/test/specs/basic.js:202:9)\n                    at async Context.executeAsync (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/shim.js:136:16)\n                    at async Context.testFrameworkFnWrapper (/home/runner/work/HOME-PROJECT-QA-TEST/HOME-PROJECT-QA-TEST/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:52:18)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d397965f10bc3a50",
+      "name" : "Screenshot",
+      "source" : "d397965f10bc3a50.png",
+      "type" : "image/png",
+      "size" : 58756
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testClass",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check the work of enterprice redirection from GitHub"
+  }, {
+    "name" : "package",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "83eb54d6be2ec2d5",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"[class=\"currency-container col-12 signup-plan-column js-details-container mr-sm-2 \"]\" because element wasn't found",
+      "time" : {
+        "start" : 1634017369715,
+        "stop" : 1634017382413,
+        "duration" : 12698
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "7347d05c97720208.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

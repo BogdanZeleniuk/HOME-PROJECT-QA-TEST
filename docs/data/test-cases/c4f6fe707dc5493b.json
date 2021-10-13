@@ -1,0 +1,72 @@
+{
+  "uid" : "c4f6fe707dc5493b",
+  "name" : "should put random credentials into signUp form",
+  "fullName" : "Home project for QA automation.should put random credentials into signUp form",
+  "historyId" : "711de0d830c887cf6e0dfdce0c167376",
+  "time" : {
+    "start" : 1634017294004,
+    "stop" : 1634017302500,
+    "duration" : 8496
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "20b2fe9f7d335047",
+      "name" : "Screenshot",
+      "source" : "20b2fe9f7d335047.png",
+      "type" : "image/png",
+      "size" : 173562
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testClass",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should put random credentials into signUp form"
+  }, {
+    "name" : "package",
+    "value" : "Home project for QA automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c4f6fe707dc5493b.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}
