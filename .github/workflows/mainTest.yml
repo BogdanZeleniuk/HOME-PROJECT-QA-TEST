@@ -1,5 +1,5 @@
 name: Main Github Actions
-on: repository_dispatch    
+on: workflow_dispatch
 
 jobs:
   build_CI_connection:
